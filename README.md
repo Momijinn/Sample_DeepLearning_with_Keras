@@ -1,0 +1,2 @@
+# Sample_DeepLearning_with_Keras
+Kerasを使用した簡単なディープラーニングのサンプルプログラム
